@@ -21,21 +21,21 @@ Yêu cầu truy cập : Riot Client, Registry Editor, BCDEdit
 
 1. Tải về
 
-Tải File tại phần Releases.
+   Tải File tại phần Releases.
 
-3. Đưa File chạy ra Desktop
+2. Đưa File chạy ra Desktop
 
-Sau khi tải về hãy để ra màn hình máy tính, sau đó chạy với quyền quản trị.
+   Sau khi tải về hãy để ra màn hình máy tính, sau đó chạy với quyền quản trị.
 
-5. Chạy phần mềm
+3. Chạy phần mềm
 
-Bật phần mềm sau đó các bạn chọn các option có sẵn trong phần mềm, còn lại đều được phần mềm xử lý tự động.
+   Bật phần mềm sau đó các bạn chọn các option có sẵn trong phần mềm, còn lại đều được phần mềm xử lý tự động.
 
-7. Khởi động lại máy
+4. Khởi động lại máy
 
-Sau khi chương trình chạy hoàn tất, phần mềm sẽ tự động khởi động lại máy hoặc bạn hãy khởi động lại máy.
+   Sau khi chương trình chạy hoàn tất, phần mềm sẽ tự động khởi động lại máy hoặc bạn hãy khởi động lại máy.
 
-9. Chạy lại Riot Client
+5. Chạy lại Riot Client
 
-Bật lại Riot Client và vào Game để chiến thôi!
+   Bật lại Riot Client và vào Game để chiến thôi!
 
