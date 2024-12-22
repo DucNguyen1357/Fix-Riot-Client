@@ -44,7 +44,7 @@ echo.
 echo:[91m       Fix Riot Client By DucNguyen [1m [0m
 echo:[92m       Phiên bản : %version% Release [1m [0m  
 echo:[92m       Website : ducnguyen.top/ducnguyentech [1m [0m  
-echo:[96m       NEW UPDATE %version% : Thêm lựa chọn sửa lỗi không chạy được Game LOL[1m [0m      
+echo:[96m       NEW UPDATE %version% : Thêm lựa chọn sửa lỗi LOL khởi chạy thất bại[1m [0m      
 echo:      ________________________________________________________________________
 echo:                  
 echo:[93m            Chọn 1 trong các tuỳ chọn dưới đây  [1m [0m 
@@ -52,7 +52,7 @@ echo:[93m            Choose one of the options below  [1m [0m
 echo.                                   
 echo:        [1] [91mTắt[0m hoặc [92mBật[0m Hyper-V / Turn [91mOff[0m or [92mON[0m Hyper-V
 echo:        [2] Sửa lỗi [91mVAN-128[0m / Fix Error [91mVAN-128[0m
-echo:        [3] Sửa lỗi [91mKhông chạy được Game LOL[0m / Fix Error [91mCan't Run LOL Game[0m
+echo:        [3] Sửa lỗi [91mLOL khởi chạy thất bại[0m / Fix Error [91mLOL game launch failed[0m
 echo:        [4] [91mThoát[0m / [91mExit[0m
 echo:      ________________________________________________________________________
 choice /C:1234 /N
@@ -243,7 +243,7 @@ Set "Test3=HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Executio
 reg.exe add "%Test3%" /v "DevOverrideEnable" /t REG_DWORD /d 0 /f
 echo:[92mDisable Devices Override - DONE![0m
 echo.
-echo:[92m Đã sửa lỗi Không vào được LOL thành công![0m
+echo:[92m Đã sửa lỗi LOL khởi chạy thất bại thành công![0m
 echo:[92m Tự động chuyển sang Menu kết thúc trong 10 giây.[0m
 timeout /t 10
 goto End
@@ -309,6 +309,3 @@ echo:[93m           https://ducnguyen.top/ducnguyentech/donate  [1m [0m
 echo:      ________________________________________________________________________
 timeout /t 10
 exit
-
-
-
