@@ -1,36 +1,3 @@
-::[Bat To Exe Converter]
-::
-::YAwzoRdxOk+EWAjk
-::fBw5plQjdCyDJGyX8VAjFDpQQQ2MAE+/Fb4I5/jHxumIrAMUV+1f
-::YAwzuBVtJxjWCl3EqQJgSA==
-::ZR4luwNxJguZRRnk
-::Yhs/ulQjdF+5
-::cxAkpRVqdFKZSDk=
-::cBs/ulQjdF+5
-::ZR41oxFsdFKZSDk=
-::eBoioBt6dFKZSDk=
-::cRo6pxp7LAbNWATEpCI=
-::egkzugNsPRvcWATEpCI=
-::dAsiuh18IRvcCxnZtBJQ
-::cRYluBh/LU+EWAnk
-::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJhZkoaHErSXA==
-::ZQ05rAF9IBncCkqN+0xwdVsFAlXMbCXqZg==
-::ZQ05rAF9IAHYFVzEqQIWIQMUfg2NKCuZCrwZ5vy7zfPHhlgeeuUqYYrVug==
-::eg0/rx1wNQPfEVWB+kM9LVsJDCKLJCuID7oIqMv35u+Jtg0/TaIbbYz13aGXJe5z
-::fBEirQZwNQPfEVWB+kM9LVsJDCKLJCuID7oIqMv35u+Jtg0/TaIbbYz13aGXJe5z
-::cRolqwZ3JBvQF1fEqQIWIQMUfg2NKCuZCrwZ5vy7zfPHhlgeeuUqYYrVug==
-::dhA7uBVwLU+EWH2R92w3PQJRQkS2OWiyZg==
-::YQ03rBFzNR3SWATE0FczBhxBVQGMfF+/Bb18
-::dhAmsQZ3MwfNWATEVosTJwtNXg2FNH/6JKxczP34we2Su0gTFNY6e4e7
-::ZQ0/vhVqMQ3MEVWAtB9wSA==
-::Zg8zqx1/OA3MEVWAtB9wSA==
-::dhA7pRFwIByZRRnk
-::Zh4grVQjdCyDJGyX8VAjFDpQQQ2MAE+/Fb4I5/jHyeOf4ns/Z6I5d52b6L2BNKAw5kzhe4JthzQK2OkVTD9NfTysexYxpyBHrmHl
-::YB416Ek+ZG8=
-::
-::
-::978f952a14a936cc963da21a135fa983
 @echo off
 @set version=1.1
 title Fix Riot Client %version% By DucNguyen
