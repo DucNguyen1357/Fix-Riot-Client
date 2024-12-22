@@ -35,5 +35,3 @@
 3. **Chạy phần mềm:** Chạy phần mềm với quyền quản trị viên và chọn các tùy chọn có sẵn.
 4. **Khởi động lại máy:** Sau khi hoàn tất, phần mềm sẽ tự động hoặc yêu cầu bạn khởi động lại máy.
 5. **Chạy Riot Client:** Bật lại Riot Client và chơi Game thôi.
-
-**Fix Riot Client By DucNguyen** là giải pháp tối ưu cho các game thủ gặp vấn đề với Riot Client. Tải về ngay và khắc phục lỗi chỉ trong vài cú nhấp chuột!
