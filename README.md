@@ -12,6 +12,23 @@
 - Giao diện dễ sử dụng, thân thiện với người dùng.
 - Hỗ trợ chạy trên CMD (Command Prompt) với các yêu cầu như Riot Client, Registry Editor, và BCDEdit.
 
+### Lịch sử phiên bản:
+#### Phiên bản V1.1 Release:
+- Đổi tên thành **Fix Riot Client**.
+- Tối ưu lại mã nguồn, chỉnh sửa một số chi tiết nhỏ.
+- Thêm tính năng sửa lỗi "LOL khởi chạy thất bại".
+- Thiết kế lại giao diện đẹp mắt hơn (hoặc không).
+
+#### Phiên bản V1.0 Release:
+- Thêm tính năng sửa lỗi **VAN-128**.
+- Thiết kế lại giao diện đẹp mắt hơn (hoặc không).
+- Dự án được chuyển giao cho **DucNguyen Tech** (trước đây là DucNguyen Software).
+
+#### Phiên bản 0.1 Beta:
+- Thêm tính năng sửa lỗi **VAN-9005**.
+- Tùy chọn bật/tắt **Hyper-V**.
+- Hỗ trợ tùy chọn khởi động lại máy.
+
 ### Hướng dẫn sử dụng:
 1. **Tải về:** Tải file tại phần [Releases](https://github.com/DucNguyen1357/Fix-Riot-Client/releases) trên GitHub.
 2. **Di chuyển file:** Sau khi tải về, giải nén và đưa file ra màn hình Desktop.
