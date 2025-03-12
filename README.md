@@ -30,8 +30,8 @@
 - Hỗ trợ tùy chọn khởi động lại máy.
 
 ### Hướng dẫn sử dụng:
-1. **Tải về:** Tải file tại phần [Releases](https://github.com/DucNguyen1357/Fix-Riot-Client/releases) trên GitHub.
-2. **Di chuyển file:** Sau khi tải về, giải nén và đưa file ra màn hình Desktop.
-3. **Chạy phần mềm:** Chạy phần mềm với quyền quản trị viên và chọn các tùy chọn có sẵn.
-4. **Khởi động lại máy:** Sau khi hoàn tất, phần mềm sẽ tự động hoặc yêu cầu bạn khởi động lại máy.
-5. **Chạy Riot Client:** Bật lại Riot Client và chơi Game thôi.
+1. Tải file tại phần [Releases](https://github.com/DucNguyen1357/Fix-Riot-Client/releases) trên GitHub.
+2. Sau khi tải về, giải nén và đưa file ra màn hình Desktop.
+3. Chạy phần mềm với quyền quản trị viên và chọn các tùy chọn có sẵn.
+4. Sau khi hoàn tất, phần mềm sẽ tự động hoặc yêu cầu bạn khởi động lại máy.
+5. Bật lại Riot Client và chơi Game thôi.
